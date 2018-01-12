@@ -1,0 +1,4 @@
+name: stlcc
+depend:
+  standard-library
+include: src
